@@ -1,0 +1,6 @@
+{
+"ConnectionStrings": {
+  "DefaultConnection": "Data Source=oc-modernization.database.windows.net",
+
+}
+}
